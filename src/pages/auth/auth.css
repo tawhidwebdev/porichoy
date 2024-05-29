@@ -1,0 +1,41 @@
+/* =====Login section Start===== */
+.loginwithgoogle{
+  cursor: pointer;
+  margin-top: 30px;
+}
+.outlined{
+  border: 5px solid red;
+}
+.login_btn{
+  margin-top: 55px;
+}
+.sing_up{
+  color: #03014C;
+  font-family: "Open Sans";
+  font-size: 13.338px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 35px;
+  margin-left: 18px;
+}
+.sing_up span{
+  color: #EA6C00;
+  font-family: "Open Sans";
+  font-size: 13.338px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.loginimg{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/* ======Login section End====== */
+
+
+/* =====Registration section Start===== */
+
+/* ======Registration section End====== */
+
