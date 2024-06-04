@@ -1,10 +1,14 @@
+import { Box } from '@mui/material'
 import React from 'react'
+import UserList from './UserList'
 
 const Home = () => {
 
   return (
       <>
-        <h1>Home</h1>
+        <Box marginTop={4}>
+          <UserList/>
+        </Box>
       </>
   )
 }

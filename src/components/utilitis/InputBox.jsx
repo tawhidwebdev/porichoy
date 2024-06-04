@@ -1,9 +1,9 @@
 import { TextField } from '@mui/material'
 import React from 'react'
 
-const InputBox = ({variant, placeholder, styling}) => {
+const InputBox = ({id, name, type, value, placeholder, variant, styling, onChange}) => {
   return (
-   <TextField fullWidth id="outlined-basic" label={placeholder} variant={variant} className={styling}/>
+   <TextField fullWidth id={id} name={name} type={type} value={value} label={placeholder} variant={variant} className={styling} onChange={onChange}/>
   )
 }
 

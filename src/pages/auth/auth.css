@@ -1,3 +1,8 @@
+.error{
+  margin-top: 5px;
+  font-size: 16px;
+  color: red;
+}
 /* =====Login section Start===== */
 .loginwithgoogle{
   cursor: pointer;
@@ -19,7 +24,7 @@
   margin-top: 35px;
   margin-left: 18px;
 }
-.sing_up span{
+.sing_up a{
   color: #EA6C00;
   font-family: "Open Sans";
   font-size: 13.338px;
@@ -36,6 +41,26 @@
 
 
 /* =====Registration section Start===== */
-
+.singup_btn{
+  margin-top: 51px;
+}
+.sing_in{
+  color: #03014C;
+  font-family: "Open Sans";
+  font-size: 13.338px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 25px;
+  text-align: center;
+}
+.sing_in a{
+  color: #EA6C00;
+  font-family: "Open Sans";
+  font-size: 13.338px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
 /* ======Registration section End====== */
 
